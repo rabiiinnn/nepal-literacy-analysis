@@ -3,6 +3,7 @@
 This project analyzes literacy patterns in Nepal using census data (population aged 5+).  
 It explores literacy distribution across regions, provinces, and gender.
 
+***Note: The analysis is based on population aged 5 years and above, as literacy is defined for this age group in census data.***
 ---
 
 ## 🔍 Project Overview
